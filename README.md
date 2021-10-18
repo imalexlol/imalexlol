@@ -1,12 +1,12 @@
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:imalexlol"></a>
-  <img src="https://weather-icon.journeyad.repl.co/@shenzhen?v=1" align="right">
+  <img src="https://weather-icon.journeyad.repl.co/@New%20York?v=1" align="right">
 </p>
 
 <h1 align="center">Hey, my name is alex</h1>
 <h3 align="center">A developer learning multiple languages</h3>
 
-- 🔭 I’m currently working on **n/a**
+- 🔭 I’m currently working on **[ai-driving](https://github.com/imalexlol/ai-driving)**
 
 - 🌱 I’m currently learning **cpp & python**
 
